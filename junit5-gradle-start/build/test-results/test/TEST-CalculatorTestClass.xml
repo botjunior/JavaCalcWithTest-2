@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTestClass" tests="25" skipped="0" failures="0" errors="0" timestamp="2021-08-31T14:21:49" hostname="LAPTOP-2EBL36C1" time="0.075">
+  <properties/>
+  <testcase name="BadSyntax4_FalseReturn()" classname="CalculatorTestClass" time="0.035"/>
+  <testcase name="MathematicalExpression_166Returned()" classname="CalculatorTestClass" time="0.004"/>
+  <testcase name="BadSyntax11_FalseReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="BadSyntax3_FalseReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="BadSyntax10_FalseReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="BadSyntax2_FalseReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="MathematicalExpression_16Returned()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="MathematicalExpression_Returned()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="BadSyntax1_FalseReturn()" classname="CalculatorTestClass" time="0.0"/>
+  <testcase name="Sum_7_and_5_12Returned()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="MathematicalExpression_1and2Returned()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="BadSyntax9_FalseReturn()" classname="CalculatorTestClass" time="0.0"/>
+  <testcase name="GoodSyntax1_TrueReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="BadSyntax8_FalseReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="GoodSyntax2_TrueReturn()" classname="CalculatorTestClass" time="0.002"/>
+  <testcase name="GoodSyntax3_TrueReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="GoodSyntax4_TrueReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="MathematicalExpression_5Returned()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="BadSyntax7_FalseReturn()" classname="CalculatorTestClass" time="0.0"/>
+  <testcase name="GoodSyntax5_TrueReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="GoodSyntax6_TrueReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="BadSyntax6_FalseReturn()" classname="CalculatorTestClass" time="0.0"/>
+  <testcase name="GoodSyntax7_TrueReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="BadSyntax5_FalseReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <testcase name="GoodSyntax9_TrueReturn()" classname="CalculatorTestClass" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
